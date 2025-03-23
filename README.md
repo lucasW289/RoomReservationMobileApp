@@ -5,46 +5,47 @@ This is a study room booking application designed for a university campus. The a
 
 ### **Home Page**
 
-![Home Page](assets/images/HomePage.png)
+<img src="assets/images/HomePage.png" alt="Home Page" width="150"/>
 
 ---
+### **Student&Lecturer Home Page**
 
-### **Dashboard**
-
-![Dashboard](assets/images/Dashboard.png)
+<img src="assets/images/LectHome.png" alt="Lecturer Home" width="150"/>
 
 ---
+### **Reserving**
 
+<img src="assets/images/Booking.png" alt="Staff Home" width="150"/>
+
+---
 ### **Lecturer Approve/Reject Requests**
 
-![Lecturer Approve/Reject](assets/images/LectApproveReject.png)
+<img src="assets/images/LectApproveReject.png" alt="Lecturer Approve/Reject" width="150"/>
+
+---
+### **Booking History**
+
+<img src="assets/images/history.png" alt="Booking History" width="150"/>
 
 ---
 
-### **Lecturer Home Page**
 
-![Lecturer Home](assets/images/LectHome.png)
+### **Staff Home Page**
+
+<img src="assets/images/StaffHome.png" alt="Staff Home" width="150"/>
 
 ---
 
 ### **Staff Edit & Add Rooms**
 
-![Staff Edit & Add](assets/images/StaffEdit&Add.png)
+<img src="assets/images/StaffEdit&Add.png" alt="Staff Edit & Add" width="150"/>
 
 ---
+### **Dashboard**
 
-### **Staff Home Page**
-
-![Staff Home](assets/images/StaffHome.png)
-
----
-
-### **Booking History**
-
-![Booking History](assets/images/history.png)
+<img src="assets/images/Dashboard.png" alt="Dashboard" width="150"/>
 
 ---
-
 
 ## Features
 
