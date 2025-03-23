@@ -2,7 +2,49 @@
 
 This is a study room booking application designed for a university campus. The application features three main roles: **Student**, **Staff**, and **Lecturer**. Each role has different access levels and functionalities to manage and book study rooms.
 
+
+### **Home Page**
+
+![Home Page](assets/images/HomePage.png)
+
 ---
+
+### **Dashboard**
+
+![Dashboard](assets/images/Dashboard.png)
+
+---
+
+### **Lecturer Approve/Reject Requests**
+
+![Lecturer Approve/Reject](assets/images/LectApproveReject.png)
+
+---
+
+### **Lecturer Home Page**
+
+![Lecturer Home](assets/images/LectHome.png)
+
+---
+
+### **Staff Edit & Add Rooms**
+
+![Staff Edit & Add](assets/images/StaffEdit&Add.png)
+
+---
+
+### **Staff Home Page**
+
+![Staff Home](assets/images/StaffHome.png)
+
+---
+
+### **Booking History**
+
+![Booking History](assets/images/history.png)
+
+---
+
 
 ## Features
 
